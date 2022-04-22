@@ -22,17 +22,14 @@ As you can see in the image, the base price of our Model-3 Standard Range Plus v
 `Pandas`
 ### **Developer Information:**
 
-Name-Surname: **Emirhan BULUT**
+Name-Surname: **Bilal Ahmer**
 
-Contact (Email) : **emirhan.bulut@turkiyeyapayzeka.com**
+Contact (Email) : **bilalahmer.cs@gmail.com**
 
-LinkedIn : **[https://www.linkedin.com/in/artificialintelligencebulut/][LinkedinAccount]**
+LinkedIn : **[https://www.linkedin.com/in/bilalahmer/][LinkedinAccount]**
 
 [LinkedinAccount]: https://www.linkedin.com/in/artificialintelligencebulut/
 
-Official Website: **[https://www.emirhanbulut.com.tr][OfficialWebSite]**
-
-[OfficialWebSite]: https://www.emirhanbulut.com.tr
 
 [DataSource]: https://www.solarreviews.com/blog/how-much-do-teslas-electric-vehicles-cost
 
